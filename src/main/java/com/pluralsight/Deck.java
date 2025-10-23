@@ -29,8 +29,4 @@ import java.util.Collections;
             }
             return cards.remove(0);
         }
-
-        public int getSize() {
-            return cards.size();
-        }
     }
