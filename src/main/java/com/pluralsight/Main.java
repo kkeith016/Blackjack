@@ -56,7 +56,6 @@ public class Main {
                 }
             }
         }
-
         int best = 0;
         String winner = "No one";
 
